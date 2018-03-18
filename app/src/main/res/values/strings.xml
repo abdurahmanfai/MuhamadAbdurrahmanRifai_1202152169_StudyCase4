@@ -1,0 +1,18 @@
+<resources>
+<string name="app_name">Muhamad Abdurrahman Rifai_1202152169_StudyCase4</string>
+        <string-array name="namamahasiswa">
+            <item>Yung Riff</item>
+            <item>Lil Uzi Vert</item>
+            <item>Lil Pump</item>
+            <item>Kanye West</item>
+            <item>RIch Brian</item>
+            <item>Joji</item>
+            <item>Yung Gravy</item>
+            <item>Kendrick Lamar</item>
+            <item>Waka Flocka Flame</item>
+            <item>Lil Riff</item>
+            <item>50 Cent</item>
+            <item>Wiz Khalifa</item>
+            <item>Ghostface Killah</item>
+        </string-array>
+    </resources>
